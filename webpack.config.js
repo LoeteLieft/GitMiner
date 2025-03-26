@@ -1,0 +1,1 @@
+// webpack configuration for GitMiner
